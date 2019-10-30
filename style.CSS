@@ -1,0 +1,12 @@
+html {
+	background-color: #000000;
+	height: 100%;
+}
+
+body {
+	margin: auto;
+	text-align: center;
+	height: 100%;
+	width: 60%;
+	background-color: #ffffff;
+}
